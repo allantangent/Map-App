@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\deadl\AndroidStudioProjects\AppTest\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b086f790823e6ab4ee6685e21a27d12207a55d59">
+        <dex dex="C:\Users\deadl\AndroidStudioProjects\AppTest\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_044dfe720f1a192a6cc444b036d3e8de97e19d54\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\deadl\AndroidStudioProjects\AppTest\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\deadl\AndroidStudioProjects\AppTest\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e4107598f6428bf1b9489c5f56c2f4b70b8b40c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\deadl\.android\build-cache\07351520089d8280ee30cd43b27db8ab984b1985\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="41f47bbcd281fdb1e42e220220ab3bfa1da591e0">
+        <dex dex="C:\Users\deadl\AndroidStudioProjects\AppTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f7b5fd952c1b18866098d102bdb8314d42506321\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\deadl\.android\build-cache\237aae7199b0d7ddd8b1f049f309d3d6c4c663c3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="C:\Users\deadl\AndroidStudioProjects\AppTest\app\build\intermediates\pre-dexed\debug\classes_c5d1f0e2fed0c9bdc783a0356d4166b420872618.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\deadl\.android\build-cache\fd5cf473bc48364bf29c344e83a04b34245c4e63\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="C:\Users\deadl\AndroidStudioProjects\AppTest\app\build\intermediates\pre-dexed\debug\classes_03342e0d1b1cf9a644788b9cccae775d059d4c4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\deadl\.android\build-cache\6c9a4be36cfd9cd43066f0cf74ced9ce9b15b238\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="C:\Users\deadl\AndroidStudioProjects\AppTest\app\build\intermediates\pre-dexed\debug\classes_312c056d606978eca669e3779bffca861dba3cbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\deadl\.android\build-cache\544f08f3b63f01bcb4f7f8af218c5e980ebb3251\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="C:\Users\deadl\AndroidStudioProjects\AppTest\app\build\intermediates\pre-dexed\debug\classes_cf744b938bf5b2dcc5b60a4c1d6a8fdadd9c96d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\deadl\.android\build-cache\07351520089d8280ee30cd43b27db8ab984b1985\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="41f47bbcd281fdb1e42e220220ab3bfa1da591e0">
+        <dex dex="C:\Users\deadl\AndroidStudioProjects\AppTest\app\build\intermediates\pre-dexed\debug\classes_f7b5fd952c1b18866098d102bdb8314d42506321.jar" />
+    </item>
+
+</items>
